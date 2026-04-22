@@ -1,12 +1,12 @@
 # 🎬 Movie Ratings App (MongoDB Project)
 
 ## 📌 Overview
-This project is a MongoDB-based application that allows users to rate movies and analyze ratings using aggregation queries.
+This project is a full-stack MongoDB-based application that allows users to rate movies and analyze ratings using aggregation queries.
 
-The system demonstrates key MongoDB concepts:
+It demonstrates core MongoDB concepts in a practical scenario:
 - CRUD operations
 - Aggregation Framework
-- Indexing
+- Indexing and performance optimization
 
 ---
 
@@ -84,6 +84,17 @@ The UI is built using **Streamlit** and allows:
 ## 🚀 How to Run
 
 ```bash
+# 1. Create virtual environment
 python -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe -m streamlit run app.py
+
+# 2. Activate it (Windows)
+.\.venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Import initial data
+python import_data.py
+
+# 5. Run the application
+streamlit run app.py
