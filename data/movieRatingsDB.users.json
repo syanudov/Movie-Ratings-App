@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "username": "stefan01",
+  "email": "stefan01@example.com",
+  "fullName": "Stefan Yanudov",
+  "createdAt": {
+    "$date": "2026-04-11T10:00:00.000Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "username": "maria02",
+  "email": "maria02@example.com",
+  "fullName": "Maria Petrova",
+  "createdAt": {
+    "$date": "2026-04-11T10:01:00.000Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "username": "ivan03",
+  "email": "ivan03@example.com",
+  "fullName": "Ivan Georgiev",
+  "createdAt": {
+    "$date": "2026-04-11T10:02:00.000Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "username": "elena04",
+  "email": "elena04@example.com",
+  "fullName": "Elena Dimitrova",
+  "createdAt": {
+    "$date": "2026-04-11T10:03:00.000Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "username": "nikolay05",
+  "email": "nikolay05@example.com",
+  "fullName": "Nikolay Stoyanov",
+  "createdAt": {
+    "$date": "2026-04-11T10:04:00.000Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "username": "desi06",
+  "email": "desi06@example.com",
+  "fullName": "Desislava Ivanova",
+  "createdAt": {
+    "$date": "2026-04-11T10:05:00.000Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "username": "petar07",
+  "email": "petar07@example.com",
+  "fullName": "Petar Kolev",
+  "createdAt": {
+    "$date": "2026-04-11T10:06:00.000Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "username": "gabriela08",
+  "email": "gabriela08@example.com",
+  "fullName": "Gabriela Todorova",
+  "createdAt": {
+    "$date": "2026-04-11T10:07:00.000Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "username": "martin09",
+  "email": "martin09@example.com",
+  "fullName": "Martin Vasilev",
+  "createdAt": {
+    "$date": "2026-04-11T10:08:00.000Z"
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "username": "teodora10",
+  "email": "teodora10@example.com",
+  "fullName": "Teodora Nikolova",
+  "createdAt": {
+    "$date": "2026-04-11T10:09:00.000Z"
+  },
+  "isActive": true
+}]

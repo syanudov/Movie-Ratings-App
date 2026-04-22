@@ -1,0 +1,1900 @@
+[{
+  "_id": {
+    "$oid": "67f03001aa11bb22cc330001"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 9,
+  "comment": "Amazing concept and visuals.",
+  "createdAt": {
+    "$date": "2026-04-11T11:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03002aa11bb22cc330002"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 8,
+  "comment": "Very smart and engaging film.",
+  "createdAt": {
+    "$date": "2026-04-11T11:01:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:01:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03003aa11bb22cc330003"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 10,
+  "comment": "One of the best sci-fi movies ever.",
+  "createdAt": {
+    "$date": "2026-04-11T11:02:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03004aa11bb22cc330004"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 7,
+  "comment": "Interesting but a bit too complex.",
+  "createdAt": {
+    "$date": "2026-04-11T11:03:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:03:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03005aa11bb22cc330005"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 8,
+  "comment": "Strong story and great pacing.",
+  "createdAt": {
+    "$date": "2026-04-11T11:04:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03006aa11bb22cc330006"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 9,
+  "comment": "Beautiful visuals and emotional ending.",
+  "createdAt": {
+    "$date": "2026-04-11T11:05:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03007aa11bb22cc330007"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 8,
+  "comment": "Creative and memorable movie.",
+  "createdAt": {
+    "$date": "2026-04-11T11:06:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:06:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03008aa11bb22cc330008"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 7,
+  "comment": "Good movie but not easy to follow.",
+  "createdAt": {
+    "$date": "2026-04-11T11:07:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:07:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03009aa11bb22cc330009"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 8,
+  "comment": "Solid movie with a unique idea.",
+  "createdAt": {
+    "$date": "2026-04-11T11:08:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:08:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0300aaa11bb22cc33000a"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "rating": 9,
+  "comment": "Excellent soundtrack and atmosphere.",
+  "createdAt": {
+    "$date": "2026-04-11T11:09:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:09:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0300baa11bb22cc33000b"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 10,
+  "comment": "Outstanding performance and action.",
+  "createdAt": {
+    "$date": "2026-04-11T11:10:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0300caa11bb22cc33000c"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 9,
+  "comment": "Dark, intense and very well made.",
+  "createdAt": {
+    "$date": "2026-04-11T11:11:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:11:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0300daa11bb22cc33000d"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 9,
+  "comment": "Excellent story and iconic villain.",
+  "createdAt": {
+    "$date": "2026-04-11T11:12:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0300eaa11bb22cc33000e"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 8,
+  "comment": "Very strong superhero drama.",
+  "createdAt": {
+    "$date": "2026-04-11T11:13:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:13:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0300faa11bb22cc33000f"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 9,
+  "comment": "Probably the best Batman movie.",
+  "createdAt": {
+    "$date": "2026-04-11T11:14:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03010aa11bb22cc330010"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 8,
+  "comment": "Great acting and tension.",
+  "createdAt": {
+    "$date": "2026-04-11T11:15:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03011aa11bb22cc330011"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 10,
+  "comment": "Near perfect comic-book adaptation.",
+  "createdAt": {
+    "$date": "2026-04-11T11:16:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:16:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03012aa11bb22cc330012"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 8,
+  "comment": "Very good but a little too dark for me.",
+  "createdAt": {
+    "$date": "2026-04-11T11:17:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:17:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03013aa11bb22cc330013"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 9,
+  "comment": "Action scenes were excellent.",
+  "createdAt": {
+    "$date": "2026-04-11T11:18:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:18:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03014aa11bb22cc330014"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "rating": 9,
+  "comment": "Very gripping from start to finish.",
+  "createdAt": {
+    "$date": "2026-04-11T11:19:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:19:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03015aa11bb22cc330015"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 9,
+  "comment": "Epic scale and emotional story.",
+  "createdAt": {
+    "$date": "2026-04-11T11:20:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03016aa11bb22cc330016"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 8,
+  "comment": "Very moving and visually rich.",
+  "createdAt": {
+    "$date": "2026-04-11T11:21:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:21:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03017aa11bb22cc330017"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 10,
+  "comment": "A masterpiece of modern cinema.",
+  "createdAt": {
+    "$date": "2026-04-11T11:22:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03018aa11bb22cc330018"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 8,
+  "comment": "Long but very meaningful.",
+  "createdAt": {
+    "$date": "2026-04-11T11:23:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:23:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03019aa11bb22cc330019"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 8,
+  "comment": "Thought-provoking and ambitious.",
+  "createdAt": {
+    "$date": "2026-04-11T11:24:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:24:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0301aaa11bb22cc33001a"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 9,
+  "comment": "Beautiful soundtrack and visuals.",
+  "createdAt": {
+    "$date": "2026-04-11T11:25:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0301baa11bb22cc33001b"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 9,
+  "comment": "Strong science-fiction drama.",
+  "createdAt": {
+    "$date": "2026-04-11T11:26:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:26:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0301caa11bb22cc33001c"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 7,
+  "comment": "Interesting but too heavy at times.",
+  "createdAt": {
+    "$date": "2026-04-11T11:27:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:27:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0301daa11bb22cc33001d"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 8,
+  "comment": "Great concept and emotional ending.",
+  "createdAt": {
+    "$date": "2026-04-11T11:28:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:28:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0301eaa11bb22cc33001e"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "rating": 9,
+  "comment": "Very emotional and memorable.",
+  "createdAt": {
+    "$date": "2026-04-11T11:29:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:29:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0301faa11bb22cc33001f"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 9,
+  "comment": "Revolutionary and stylish.",
+  "createdAt": {
+    "$date": "2026-04-11T11:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03020aa11bb22cc330020"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 8,
+  "comment": "Classic sci-fi with a cool idea.",
+  "createdAt": {
+    "$date": "2026-04-11T11:31:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:31:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03021aa11bb22cc330021"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 9,
+  "comment": "Smart and influential movie.",
+  "createdAt": {
+    "$date": "2026-04-11T11:32:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:32:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03022aa11bb22cc330022"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 7,
+  "comment": "Good story, slightly dated effects.",
+  "createdAt": {
+    "$date": "2026-04-11T11:33:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:33:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03023aa11bb22cc330023"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 8,
+  "comment": "Very creative world-building.",
+  "createdAt": {
+    "$date": "2026-04-11T11:34:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03024aa11bb22cc330024"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 7,
+  "comment": "Interesting but not my favorite.",
+  "createdAt": {
+    "$date": "2026-04-11T11:35:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03025aa11bb22cc330025"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 8,
+  "comment": "Great action and atmosphere.",
+  "createdAt": {
+    "$date": "2026-04-11T11:36:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:36:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03026aa11bb22cc330026"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 8,
+  "comment": "A very important sci-fi classic.",
+  "createdAt": {
+    "$date": "2026-04-11T11:37:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:37:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03027aa11bb22cc330027"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 7,
+  "comment": "Cool action but not perfect.",
+  "createdAt": {
+    "$date": "2026-04-11T11:38:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:38:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03028aa11bb22cc330028"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "rating": 8,
+  "comment": "Very good and iconic movie.",
+  "createdAt": {
+    "$date": "2026-04-11T11:39:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:39:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03029aa11bb22cc330029"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 8,
+  "comment": "Epic and emotional historical drama.",
+  "createdAt": {
+    "$date": "2026-04-11T11:40:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0302aaa11bb22cc33002a"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 7,
+  "comment": "Strong acting and battle scenes.",
+  "createdAt": {
+    "$date": "2026-04-11T11:41:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:41:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0302baa11bb22cc33002b"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 8,
+  "comment": "Very good classic epic.",
+  "createdAt": {
+    "$date": "2026-04-11T11:42:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:42:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0302caa11bb22cc33002c"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 7,
+  "comment": "Well made, though a bit long.",
+  "createdAt": {
+    "$date": "2026-04-11T11:43:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:43:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0302daa11bb22cc33002d"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 9,
+  "comment": "Epic soundtrack and memorable scenes.",
+  "createdAt": {
+    "$date": "2026-04-11T11:44:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:44:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0302eaa11bb22cc33002e"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 7,
+  "comment": "Good movie with strong emotion.",
+  "createdAt": {
+    "$date": "2026-04-11T11:45:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0302faa11bb22cc33002f"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 8,
+  "comment": "A classic revenge story.",
+  "createdAt": {
+    "$date": "2026-04-11T11:46:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:46:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03030aa11bb22cc330030"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 6,
+  "comment": "Not bad, but slower than expected.",
+  "createdAt": {
+    "$date": "2026-04-11T11:47:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:47:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03031aa11bb22cc330031"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 7,
+  "comment": "Good movie but too long for me.",
+  "createdAt": {
+    "$date": "2026-04-11T11:48:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:48:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03032aa11bb22cc330032"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "rating": 8,
+  "comment": "Very powerful ending.",
+  "createdAt": {
+    "$date": "2026-04-11T11:49:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:49:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03033aa11bb22cc330033"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 7,
+  "comment": "Classic but a bit too long.",
+  "createdAt": {
+    "$date": "2026-04-11T11:50:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:50:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03034aa11bb22cc330034"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 8,
+  "comment": "Emotional and beautifully shot.",
+  "createdAt": {
+    "$date": "2026-04-11T11:51:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:51:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03035aa11bb22cc330035"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 7,
+  "comment": "Good movie, not my usual genre.",
+  "createdAt": {
+    "$date": "2026-04-11T11:52:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:52:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03036aa11bb22cc330036"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 8,
+  "comment": "Very emotional love story.",
+  "createdAt": {
+    "$date": "2026-04-11T11:53:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:53:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03037aa11bb22cc330037"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 6,
+  "comment": "Well made but not really for me.",
+  "createdAt": {
+    "$date": "2026-04-11T11:54:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:54:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03038aa11bb22cc330038"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 9,
+  "comment": "Very emotional and memorable.",
+  "createdAt": {
+    "$date": "2026-04-11T11:55:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:55:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03039aa11bb22cc330039"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 7,
+  "comment": "A strong classic drama.",
+  "createdAt": {
+    "$date": "2026-04-11T11:56:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:56:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0303aaa11bb22cc33003a"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 8,
+  "comment": "Emotional and very well acted.",
+  "createdAt": {
+    "$date": "2026-04-11T11:57:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:57:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0303baa11bb22cc33003b"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 7,
+  "comment": "Good movie though quite long.",
+  "createdAt": {
+    "$date": "2026-04-11T11:58:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:58:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0303caa11bb22cc33003c"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "rating": 9,
+  "comment": "Beautifully made romantic classic.",
+  "createdAt": {
+    "$date": "2026-04-11T11:59:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T11:59:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0303daa11bb22cc33003d"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 9,
+  "comment": "Very original and provocative.",
+  "createdAt": {
+    "$date": "2026-04-11T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0303eaa11bb22cc33003e"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 7,
+  "comment": "Interesting but a bit too chaotic.",
+  "createdAt": {
+    "$date": "2026-04-11T12:01:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:01:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0303faa11bb22cc33003f"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 10,
+  "comment": "Brilliant and unforgettable.",
+  "createdAt": {
+    "$date": "2026-04-11T12:02:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:02:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03040aa11bb22cc330040"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 6,
+  "comment": "Too dark and strange for my taste.",
+  "createdAt": {
+    "$date": "2026-04-11T12:03:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:03:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03041aa11bb22cc330041"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 8,
+  "comment": "Very strong concept and acting.",
+  "createdAt": {
+    "$date": "2026-04-11T12:04:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:04:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03042aa11bb22cc330042"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 7,
+  "comment": "Good film but not easy to watch.",
+  "createdAt": {
+    "$date": "2026-04-11T12:05:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03043aa11bb22cc330043"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 9,
+  "comment": "Very bold and memorable movie.",
+  "createdAt": {
+    "$date": "2026-04-11T12:06:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:06:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03044aa11bb22cc330044"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 7,
+  "comment": "Strange but definitely interesting.",
+  "createdAt": {
+    "$date": "2026-04-11T12:07:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:07:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03045aa11bb22cc330045"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 8,
+  "comment": "Good twist and atmosphere.",
+  "createdAt": {
+    "$date": "2026-04-11T12:08:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:08:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03046aa11bb22cc330046"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "rating": 8,
+  "comment": "Not for everyone, but very strong.",
+  "createdAt": {
+    "$date": "2026-04-11T12:09:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:09:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03047aa11bb22cc330047"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 9,
+  "comment": "Great dialogue and structure.",
+  "createdAt": {
+    "$date": "2026-04-11T12:10:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03048aa11bb22cc330048"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 8,
+  "comment": "Unique movie with iconic scenes.",
+  "createdAt": {
+    "$date": "2026-04-11T12:11:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:11:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03049aa11bb22cc330049"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 9,
+  "comment": "Excellent writing and style.",
+  "createdAt": {
+    "$date": "2026-04-11T12:12:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0304aaa11bb22cc33004a"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 7,
+  "comment": "Very good, but not my favorite Tarantino.",
+  "createdAt": {
+    "$date": "2026-04-11T12:13:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:13:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0304baa11bb22cc33004b"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 8,
+  "comment": "Clever and entertaining.",
+  "createdAt": {
+    "$date": "2026-04-11T12:14:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0304caa11bb22cc33004c"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 7,
+  "comment": "Interesting storytelling and characters.",
+  "createdAt": {
+    "$date": "2026-04-11T12:15:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0304daa11bb22cc33004d"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 8,
+  "comment": "Very enjoyable and well written.",
+  "createdAt": {
+    "$date": "2026-04-11T12:16:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:16:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0304eaa11bb22cc33004e"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 8,
+  "comment": "Very creative and different.",
+  "createdAt": {
+    "$date": "2026-04-11T12:17:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:17:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0304faa11bb22cc33004f"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 7,
+  "comment": "Good movie but slightly overrated for me.",
+  "createdAt": {
+    "$date": "2026-04-11T12:18:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:18:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03050aa11bb22cc330050"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "rating": 8,
+  "comment": "Great performances and memorable scenes.",
+  "createdAt": {
+    "$date": "2026-04-11T12:19:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:19:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03051aa11bb22cc330051"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 10,
+  "comment": "Inspirational and beautifully written.",
+  "createdAt": {
+    "$date": "2026-04-11T12:20:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03052aa11bb22cc330052"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 9,
+  "comment": "Very moving and powerful.",
+  "createdAt": {
+    "$date": "2026-04-11T12:21:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:21:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03053aa11bb22cc330053"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 10,
+  "comment": "Perfect storytelling and ending.",
+  "createdAt": {
+    "$date": "2026-04-11T12:22:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03054aa11bb22cc330054"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 9,
+  "comment": "Beautifully acted and emotional.",
+  "createdAt": {
+    "$date": "2026-04-11T12:23:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:23:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03055aa11bb22cc330055"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 9,
+  "comment": "Very inspiring and memorable.",
+  "createdAt": {
+    "$date": "2026-04-11T12:24:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:24:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03056aa11bb22cc330056"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 8,
+  "comment": "Very strong drama with heart.",
+  "createdAt": {
+    "$date": "2026-04-11T12:25:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:25:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03057aa11bb22cc330057"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 9,
+  "comment": "One of the strongest dramas ever.",
+  "createdAt": {
+    "$date": "2026-04-11T12:26:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:26:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03058aa11bb22cc330058"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 10,
+  "comment": "Amazing from beginning to end.",
+  "createdAt": {
+    "$date": "2026-04-11T12:27:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:27:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03059aa11bb22cc330059"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 9,
+  "comment": "Great movie with a powerful message.",
+  "createdAt": {
+    "$date": "2026-04-11T12:28:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:28:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0305aaa11bb22cc33005a"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "rating": 10,
+  "comment": "A truly outstanding film.",
+  "createdAt": {
+    "$date": "2026-04-11T12:29:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:29:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0305baa11bb22cc33005b"
+  },
+  "userId": {
+    "$oid": "67f01a9c3e4b8d12af90c101"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 9,
+  "comment": "Classic mafia masterpiece.",
+  "createdAt": {
+    "$date": "2026-04-11T12:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0305caa11bb22cc33005c"
+  },
+  "userId": {
+    "$oid": "67f01ab74c91de23bf81d202"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 8,
+  "comment": "Excellent acting and atmosphere.",
+  "createdAt": {
+    "$date": "2026-04-11T12:31:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:31:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0305daa11bb22cc33005d"
+  },
+  "userId": {
+    "$oid": "67f01ac85d02ef34ca72e303"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 10,
+  "comment": "One of the greatest movies ever made.",
+  "createdAt": {
+    "$date": "2026-04-11T12:32:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:32:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0305eaa11bb22cc33005e"
+  },
+  "userId": {
+    "$oid": "67f01ad96e13fa45db63f404"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 8,
+  "comment": "Very good but slower paced.",
+  "createdAt": {
+    "$date": "2026-04-11T12:33:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:33:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0305faa11bb22cc33005f"
+  },
+  "userId": {
+    "$oid": "67f01aea7f24ab56ec54a505"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 9,
+  "comment": "Rich characters and classic direction.",
+  "createdAt": {
+    "$date": "2026-04-11T12:34:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:34:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03060aa11bb22cc330060"
+  },
+  "userId": {
+    "$oid": "67f01afb8035bc67fd45b606"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 7,
+  "comment": "Very strong film, though a bit slow.",
+  "createdAt": {
+    "$date": "2026-04-11T12:35:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:35:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03061aa11bb22cc330061"
+  },
+  "userId": {
+    "$oid": "67f01b0c9146cd78ae36c707"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 9,
+  "comment": "Timeless crime drama.",
+  "createdAt": {
+    "$date": "2026-04-11T12:36:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:36:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03062aa11bb22cc330062"
+  },
+  "userId": {
+    "$oid": "67f01b1da257de89bf27d808"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 8,
+  "comment": "Classic film with strong performances.",
+  "createdAt": {
+    "$date": "2026-04-11T12:37:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:37:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03063aa11bb22cc330063"
+  },
+  "userId": {
+    "$oid": "67f01b2eb368ef90ca18e909"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 8,
+  "comment": "Very good, though quite long.",
+  "createdAt": {
+    "$date": "2026-04-11T12:38:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:38:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f03064aa11bb22cc330064"
+  },
+  "userId": {
+    "$oid": "67f01b3fc479fa01db09fa10"
+  },
+  "movieId": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "rating": 9,
+  "comment": "Great acting and unforgettable scenes.",
+  "createdAt": {
+    "$date": "2026-04-11T12:39:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-11T12:39:00.000Z"
+  }
+}]

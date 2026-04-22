@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "67f0201a1bc34d5e6f701111"
+  },
+  "title": "Inception",
+  "genre": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "releaseYear": 2010,
+  "director": "Christopher Nolan",
+  "durationMinutes": 148,
+  "createdAt": {
+    "$date": "2026-04-11T10:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0202b2cd45e6f7a812222"
+  },
+  "title": "The Dark Knight",
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "releaseYear": 2008,
+  "director": "Christopher Nolan",
+  "durationMinutes": 152,
+  "createdAt": {
+    "$date": "2026-04-11T10:11:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0203c3de56f7a8b923333"
+  },
+  "title": "Interstellar",
+  "genre": [
+    "Sci-Fi",
+    "Drama",
+    "Adventure"
+  ],
+  "releaseYear": 2014,
+  "director": "Christopher Nolan",
+  "durationMinutes": 169,
+  "createdAt": {
+    "$date": "2026-04-11T10:12:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0204d4ef67a8b9ca34444"
+  },
+  "title": "The Matrix",
+  "genre": [
+    "Sci-Fi",
+    "Action"
+  ],
+  "releaseYear": 1999,
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "durationMinutes": 136,
+  "createdAt": {
+    "$date": "2026-04-11T10:13:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0205e5fa78b9cadb45555"
+  },
+  "title": "Gladiator",
+  "genre": [
+    "Action",
+    "Drama",
+    "Adventure"
+  ],
+  "releaseYear": 2000,
+  "director": "Ridley Scott",
+  "durationMinutes": 155,
+  "createdAt": {
+    "$date": "2026-04-11T10:14:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0206f60b89cadbec56666"
+  },
+  "title": "Titanic",
+  "genre": [
+    "Romance",
+    "Drama"
+  ],
+  "releaseYear": 1997,
+  "director": "James Cameron",
+  "durationMinutes": 195,
+  "createdAt": {
+    "$date": "2026-04-11T10:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0207061c9adbcef067777"
+  },
+  "title": "Fight Club",
+  "genre": [
+    "Drama"
+  ],
+  "releaseYear": 1999,
+  "director": "David Fincher",
+  "durationMinutes": 139,
+  "createdAt": {
+    "$date": "2026-04-11T10:16:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0208162dabcef01788888"
+  },
+  "title": "Pulp Fiction",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "releaseYear": 1994,
+  "director": "Quentin Tarantino",
+  "durationMinutes": 154,
+  "createdAt": {
+    "$date": "2026-04-11T10:17:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f0209263ebcf1202899999"
+  },
+  "title": "The Shawshank Redemption",
+  "genre": [
+    "Drama"
+  ],
+  "releaseYear": 1994,
+  "director": "Frank Darabont",
+  "durationMinutes": 142,
+  "createdAt": {
+    "$date": "2026-04-11T10:18:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67f020a364fc0121390aaaaa"
+  },
+  "title": "The Godfather",
+  "genre": [
+    "Crime",
+    "Drama"
+  ],
+  "releaseYear": 1972,
+  "director": "Francis Ford Coppola",
+  "durationMinutes": 175,
+  "createdAt": {
+    "$date": "2026-04-11T10:19:00.000Z"
+  }
+}]
